@@ -57,6 +57,8 @@ button {
             <button type="button" class="cancelbtn"> Cancel</button>   
             Forgot <a href="#"> password? </a>   
         </div>   
-    </form>     
+    </form>  
+
+    <h1>This is GIT auto commit using * * * * * option </h1>
 </body>     
 </html>  

@@ -60,5 +60,7 @@ button {
     </form>  
 
     <h1>This is GIT auto commit using * * * * * option </h1>
+    <h1>WELCOME TO ANSIBLE </h1>
+ 
 </body>     
 </html>  
